@@ -11,6 +11,13 @@
 			
 			trace(" here's another thing ");
 		}
+		
+		private function heresAFunction()
+		{
+			trace(' some function ');
+		}
+		
+		
 	}
 	
 }
