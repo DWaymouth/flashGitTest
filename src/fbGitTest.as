@@ -15,7 +15,10 @@
 		private function heresAFunction()
 		{
 			trace(' some function ');
+			trace(' some function2 ');
 		}
+		
+		
 		
 		
 	}
