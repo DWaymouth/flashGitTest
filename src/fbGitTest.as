@@ -8,6 +8,8 @@
 		
 		public function fbGitTest() {
 			trace(' hi there ');
+			
+			trace(" here's another thing ");
 		}
 	}
 	
