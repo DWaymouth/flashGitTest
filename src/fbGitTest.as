@@ -27,6 +27,13 @@
 			trace(' some function3 ');
 			trace(' some function4 ');
 		}
+		private function heresAFunction3()
+		{
+			trace(' some function ');
+			trace(' some function2 ');
+			trace(' some function3 ');
+			trace(' some function4 ');
+		}
 		
 		
 		
