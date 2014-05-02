@@ -7,7 +7,7 @@
 		
 		
 		public function fbGitTest() {
-			// constructor code
+			trace(' hi there ');
 		}
 	}
 	
